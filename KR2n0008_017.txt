@@ -1,0 +1,28 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 授經圖義例
+#+DATE: 2015-08-24 22:53:46.342429
+#+PROPERTY: ID KR2n0008
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
+<pb:KR2n0008_WYG_017-1a>¶
+欽定四庫全書¶
+　授經圖義例巻十八¶
+　　　　　　　　　　　　　明　朱睦㮮　撰¶
+<pb:KR2n0008_WYG_017-2a>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+<pb:KR2n0008_WYG_017-2b>¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　¶
+　授經圖義例卷十八¶
