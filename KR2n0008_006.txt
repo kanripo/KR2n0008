@@ -4,13 +4,13 @@
 #+PROPERTY: ID KR2n0008
 #+PROPERTY: BASEEDITION WYG    
 #+PROPERTY: JUAN 卷六
-<pb:KR2n0008_WYG_005-1a>¶
+<pb:KR2n0008_WYG_006-1a>¶
 欽定四庫全書¶
 　授經圖義例卷六¶
 　　　　　　　　　　　　明　朱睦㮮　撰¶
-<pb:KR2n0008_WYG_005-2a>¶
+<pb:KR2n0008_WYG_006-2a>¶
 ¶
-<pb:KR2n0008_WYG_005-3a>¶
+<pb:KR2n0008_WYG_006-3a>¶
 　¶
 　¶
 　¶
@@ -19,7 +19,7 @@
 　¶
 　¶
 　¶
-<pb:KR2n0008_WYG_005-3b>¶
+<pb:KR2n0008_WYG_006-3b>¶
 　¶
 　¶
 　¶

@@ -4,13 +4,13 @@
 #+PROPERTY: ID KR2n0008
 #+PROPERTY: BASEEDITION WYG    
 #+PROPERTY: JUAN 卷十四
-<pb:KR2n0008_WYG_013-1a>¶
+<pb:KR2n0008_WYG_014-1a>¶
 欽定四庫全書¶
 　授經圖義例卷十四¶
 　　　　　　　　　　　　明　朱睦㮮　撰¶
-<pb:KR2n0008_WYG_013-2a>¶
+<pb:KR2n0008_WYG_014-2a>¶
 ¶
-<pb:KR2n0008_WYG_013-3a>¶
+<pb:KR2n0008_WYG_014-3a>¶
 　¶
 　¶
 　¶
@@ -19,7 +19,7 @@
 　¶
 　¶
 　¶
-<pb:KR2n0008_WYG_013-3b>¶
+<pb:KR2n0008_WYG_014-3b>¶
 　¶
 　¶
 　¶

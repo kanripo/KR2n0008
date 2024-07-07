@@ -4,11 +4,11 @@
 #+PROPERTY: ID KR2n0008
 #+PROPERTY: BASEEDITION WYG    
 #+PROPERTY: JUAN 卷十八
-<pb:KR2n0008_WYG_017-1a>¶
+<pb:KR2n0008_WYG_018-1a>¶
 欽定四庫全書¶
 　授經圖義例巻十八¶
 　　　　　　　　　　　　　明　朱睦㮮　撰¶
-<pb:KR2n0008_WYG_017-2a>¶
+<pb:KR2n0008_WYG_018-2a>¶
 　¶
 　¶
 　¶
@@ -17,7 +17,7 @@
 　¶
 　¶
 　¶
-<pb:KR2n0008_WYG_017-2b>¶
+<pb:KR2n0008_WYG_018-2b>¶
 　¶
 　¶
 　¶

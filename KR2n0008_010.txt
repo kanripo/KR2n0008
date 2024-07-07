@@ -4,13 +4,13 @@
 #+PROPERTY: ID KR2n0008
 #+PROPERTY: BASEEDITION WYG    
 #+PROPERTY: JUAN 卷十
-<pb:KR2n0008_WYG_009-1a>¶
+<pb:KR2n0008_WYG_010-1a>¶
 欽定四庫全書¶
 　授經圖義例巻十¶
 　　　　　　　　　　　明　朱睦㮮　撰¶
-<pb:KR2n0008_WYG_009-2a>¶
+<pb:KR2n0008_WYG_010-2a>¶
 ¶
-<pb:KR2n0008_WYG_009-3a>¶
+<pb:KR2n0008_WYG_010-3a>¶
 　¶
 　¶
 　¶
@@ -19,7 +19,7 @@
 　¶
 　¶
 　¶
-<pb:KR2n0008_WYG_009-3b>¶
+<pb:KR2n0008_WYG_010-3b>¶
 　¶
 　¶
 　¶
